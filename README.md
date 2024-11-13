@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @VRaizerDev
-- ⚡ Dev C# and Python
+- ⚡ Dev C#/C and Python
